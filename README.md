@@ -1,3 +1,3 @@
-# Redux Starter Code 
+# Redux Starter Code
 
-1. run `npm install` to get started # redux-starter-revised
+1. run `npm install` to get started
